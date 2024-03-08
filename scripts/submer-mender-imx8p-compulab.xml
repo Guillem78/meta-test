@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote fetch="https://github.com/Guillem78" name="guillem"/>
+
+  <project name="meta-test" remote="guillem" revision="master" path="sources/meta-test"/>
+
+</manifest>
